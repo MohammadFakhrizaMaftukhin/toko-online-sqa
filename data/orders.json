@@ -1,0 +1,26 @@
+[
+    {
+        "id_pesanan": "ORD-6a07faf7c4148",
+        "email": "budi@email.com",
+        "alamat": "Waduk",
+        "items": {
+            "PRD-001": 2,
+            "PRD-002": 1
+        },
+        "total_bayar": 550000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-16 07:04:55"
+    },
+    {
+        "id_pesanan": "ORD-6a07fb07bf717",
+        "email": "budi@email.com",
+        "alamat": "Waduk",
+        "items": {
+            "PRD-001": 2,
+            "PRD-002": 1
+        },
+        "total_bayar": 550000,
+        "status": "Menunggu Pembayaran",
+        "tanggal": "2026-05-16 07:05:11"
+    }
+]

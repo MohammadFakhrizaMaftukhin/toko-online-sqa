@@ -1,0 +1,4 @@
+/vendor/
+.phpunit.result.cache
+/laporan-coverage/
+chromedriver.exe
